@@ -114,18 +114,18 @@
   }
   .girl-box h2 {
     position: absolute;
-    top: 80%;
-    left: -7%;
+    top: 20%;
+    left: 20%;
   }
   .girl-box h3 {
     position: absolute;
     top: 89%;
-    right: 15%;
+    right: 20%;
   }
   .girl-box h4 {
     position: absolute;
     top: 40%;
-    left: 19%;
+    left: 25%;
   }
   .girl-text p {
     padding-left: 10px;
