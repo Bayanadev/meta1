@@ -361,7 +361,7 @@
     padding-left: 1px;
   }
 }
-@media (max-width: 387px) {
+@media (max-width: 449px) {
   .header h1 {
     font-size: 22px;
   }
@@ -471,7 +471,7 @@
     width: 100%;
   }
 }
-@media (max-width: 360px) {
+@media (max-width: 400px) {
   .container {
     width: 100%;
   }
@@ -551,7 +551,7 @@
     font-size: 22px;
   }
 }
-@media (max-width: 346px) {
+@media (max-width: 399px) {
   .girl-img .img-2 {
     max-width: 800px;
     max-height: 900px;
