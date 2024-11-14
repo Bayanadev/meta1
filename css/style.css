@@ -23,7 +23,8 @@ h6 {
   color: #ffffff;
 }
 p {
-  color: #ffffff;
+  color: #ffffff78;
+  font-family: Poppins, sans-serif;
 }
 #header {
   padding-block: 40px;
@@ -150,7 +151,6 @@ nav {
 }
 .girl-img .img-2 {
   max-width: 600px;
-  max-height: 600px;
   width: 100%;
 }
 #what {
